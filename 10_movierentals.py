@@ -2,7 +2,6 @@
 
 import csv
 import os
-from datetime import timedelta
 
 class Movie:
     def __init__(self, id, title, director, sinopsis, duration, genre, rating, avialable):
